@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 muhammad.rizal51 StafCS 4096 Feb 12 13:35 .
+drwx--x--x  3 muhammad.rizal51 StafCS 4096 Feb 12 10:37 ..
+drwxr-xr-x  8 muhammad.rizal51 StafCS 4096 Feb 12 10:37 .git
+-rw-r--r--  1 muhammad.rizal51 StafCS    7 Feb 12 10:09 README.md
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:25 key
+-rw-r--r--  1 muhammad.rizal51 StafCS    0 Feb 12 13:35 lab01.txt
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:25 log
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:32 sandbox
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:37 week00
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:19 week01
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:21 week02
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:25 week03
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:25 week04
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:25 week05
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:25 week06
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:25 week07
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:25 week08
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:25 week09
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:25 week10
+drwxr-xr-x  2 muhammad.rizal51 StafCS 4096 Feb 12 10:25 xtra
+/home/fasilkom/mahasiswa/m/muhammad.rizal51/os171/week01
