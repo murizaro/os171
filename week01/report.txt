@@ -1,0 +1,1 @@
+Jujur aja sebenernya masih bingung ini disuruh ngerjain apa. Tapi semoga ini bener. Jadi tugas di week01 ini intinya sih belajar command dasar github, kayak clone commit add push sama pull. Terus juga belajar command dasar dari bash, kayak cd, mkdir, touch, ls, dan masih banyak lagi. Sama belajar bikin bash script juga.
